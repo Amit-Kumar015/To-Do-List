@@ -22,7 +22,7 @@ A simple and interactive To-Do List application built with HTML, CSS, and JavaSc
 
 ## Technologies Used
 
-- *HTML5**: Structure of the application.
+- **HTML5**: Structure of the application.
 
 - **CSS3**: Styling and layout.
 
