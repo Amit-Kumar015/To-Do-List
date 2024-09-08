@@ -34,7 +34,6 @@ function saveData(){
     localStorage.setItem("data", listCont.innerHTML)
 }
 
-function showTask(){
+window.onload= ()=>{
     listCont.innerHTML= localStorage.getItem("data")
 }
-showTask()
